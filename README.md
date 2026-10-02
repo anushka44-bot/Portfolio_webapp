@@ -26,7 +26,7 @@ This is a personal portfolio website with an integrated AI-powered chatbot that 
 
 ## 📸 Preview
 
-Now Live [ https://anushka-aiportfolio.web.app/ ]
+Now Live [ https://portfolio-ten-xi-jlj9dio6rf.vercel.app/ ]
 
 ## 🛠️ Setup Instructions
 
